@@ -1,8 +1,8 @@
 foo() {
            j = 1;
-           k = 2;
+           k = 3;
 
            void findMe(int* k, int j){
-                   cout << "Hello Foo" << j;
+                   cout << "Hello Fool" << k;
            }
 }
